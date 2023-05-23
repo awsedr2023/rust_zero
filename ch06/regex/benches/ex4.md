@@ -12,4 +12,5 @@
 
 ## 参考
 [Thompson vmの解説](https://swtch.com/~rsc/regexp/regexp2.html#:~:text=Thompson%27s%20Implementation)
+
 [Thompson vmのコード(Thompson.c)](https://code.google.com/archive/p/re1/)
