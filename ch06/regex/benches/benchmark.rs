@@ -94,5 +94,5 @@ fn width_first(c: &mut Criterion) {
     }
 }
 
-criterion_group!(benches, rust_regex, depth_first);
+criterion_group!(benches, width_first, depth_first);
 criterion_main!(benches);
